@@ -1,0 +1,5 @@
+{
+  "name": "MediStream AI Hospital Booking",
+  "description": "A smart hospital appointment booking system featuring AI-driven symptom analysis for department routing and urgency triage.",
+  "requestFramePermissions": []
+}
