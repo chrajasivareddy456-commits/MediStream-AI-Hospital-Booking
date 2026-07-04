@@ -1,11 +1,5 @@
 # 🏥 MediStream AI Hospital Booking System
 
-<p align="center">
-
-<img src="screenshots/banner.png" alt="MediStream Banner" width="100%"/>
-
-</p>
-
 <h3 align="center">
 🤖 AI-Powered Smart Healthcare Appointment Platform
 </h3>
